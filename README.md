@@ -11,6 +11,8 @@ You wanna use this list yourself?
 
 Here a method how you can get get a List of these bad words:
 
+
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.FileReader;
